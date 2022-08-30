@@ -8,6 +8,7 @@
 
 <p align="center">
 WiZHUB is one of the best repositories for Exploiting Roblox. Constantly updated with the best custom, and leaked FE script exploits.
+This is an open source project, but just remember one thing when using my code, your mommy raised a skid :)
 <p align="center">
 (THIS IS A PRIVATE REPOSITORY, ALL UPDATES ARE ALSO PRIVATE.)
 
